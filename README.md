@@ -1,0 +1,1 @@
+This file had a few syntax and logic errors that needed to be fixed. This is a simple "Guess the number from 1 to 100" game.
